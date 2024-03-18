@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../6540BSS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "6540BSS"
+	}
+}
