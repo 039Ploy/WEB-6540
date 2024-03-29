@@ -1,0 +1,90 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lemon&family=Poppins:wght@100&display=swap');
+  
+body{
+    background-color: #72CACF;
+    margin: 0;
+    padding:0;
+    font-family: 'Lemon', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*start Header*/
+header{
+    background-color: #1e9da3;
+}
+nav{
+    /*border: 2px solid rgb(255, 251, 254) */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    /*border: 2px solid rgb(250, 247, 247) */
+    width: 300px;
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+
+.h1-title{
+    margin-left: 10px;
+    color: #fffefe;
+    text-transform: uppercase;
+}
+.manu{
+    /*border: 2px solid rgb(255, 255, 255) */
+    display: flex;
+    list-style:none;
+    width: 500px;
+}
+
+li{
+    margin-right: 15px;
+}
+
+a{
+    text-decoration: none;
+  color: #ffffff;
+}
+/*Ead Header*/
+
+/*start Main-content*/
+ .Main-content{
+    /*margin:auto;*/
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+
+}
+ .Box{
+ background-color: beige;
+ padding: 20px;
+ margin: 30px 0px;
+ }
+
+ image{
+    width: 100%;
+ }
+
+ button{
+    color: #fff7f7;
+    background-color: #7c0707;
+    padding: 8px 24px;
+    border-radius: 30px;
+    display: inline-block;
+ }
+
+ text-param{
+    font-weight: 200;
+ }
+
+/*End main-conten*/
+
+/*start Footter*/
+footer{
+    background-color: #1e9da3;
+    text-align: center;
+    color: blanchedalmond;
+    padding: 10px;
+}
